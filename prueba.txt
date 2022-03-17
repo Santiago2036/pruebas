@@ -1,0 +1,15 @@
+
+CSMA/CD :
+protocolo anticolisiones
+es una mejora del protocolo CSMA. Este algoritmo crea un procedimiento que regula la forma en la que debe producirse la comunicación dentro de una red con un medio de transmisión compartido. La mejora introducida regula además cómo proceder en caso de colisiones, es decir, cuando dos o más participantes intentan enviar paquetes de datos simultáneamente a través del medio de transmisión (Bus) y estos interfieren entre sí.
+
+este es una prueba de merge dicihwhwew
+
+
+cdvvvdvjd
+
+
+santigo 1088348 398
+
+
+
